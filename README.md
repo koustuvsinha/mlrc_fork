@@ -143,4 +143,4 @@ Files and latex sources for MLRC 2020 edition is now moved to [2020](2020/) fold
 
 ## Contact
 
-- Koustuv Sinha (@koustuvsinha) [Mail](mailto:koustuv.sinha@mail.mcgill.ca)
+- Koustuv Sinha (@koustuvsinha) [Mail](mailto:koustuv.sinha@mail.mcgill.ca), Reproducibility Challenge [Mail](mailto:reproducibility.challenge@gmail.com)
